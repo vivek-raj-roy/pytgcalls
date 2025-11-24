@@ -58,7 +58,7 @@ Here's how to install the PyTgCalls lib, the commands are given below:
 
 ``` bash
 # With Git
-pip install git+https://github.com/pytgcalls/pytgcalls -U
+pip install git+https://github.com/vivek-raj-roy/pytgcalls -U
 
 # With PyPi (Recommended)
 pip install py-tgcalls -U
